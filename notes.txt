@@ -1,0 +1,8 @@
+Using: Gain Ratio
+Using: C++
+
+Additional: Add Postpruning
+
+Optional: Add continuous value support (ehhhhh)
+
+
